@@ -13,3 +13,6 @@ design:
 - can build windows by selecting terminals, a shape, etc. a window will be a view into panes
 
 open to other ideas, such as a global windows view
+
+Potential system design:
+<img width="1440" height="740" alt="image" src="https://github.com/user-attachments/assets/c604b8e2-a303-458b-ad11-d7101a464b61" />
